@@ -1,2 +1,2 @@
-# nexuss
+# nexus
 Bem-vindo(a)
